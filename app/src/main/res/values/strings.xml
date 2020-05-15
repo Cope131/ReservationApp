@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reservation</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="group_size">Group Size</string>
+    <string name="size">Size</string>
+    <string name="smoking_area">Smoking Area</string>
+
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+
+    <string name="reset">Reset</string>
+    <string name="confirm">Confirm</string>
+</resources>
